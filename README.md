@@ -1,5 +1,3 @@
-# House-price-prediction
-
 # House Price Prediction
 
 ## 📊 Overview
